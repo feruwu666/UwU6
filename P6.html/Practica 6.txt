@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html>
+<head> 
+	  <h1 id="inicio" align="center"><i>Funkos Company!</i></h1>
+</head>
+  <style>
+    ul.navbar {
+      list-style-type: none ;
+      padding: 5px;
+      overflow: hidden;
+      background-color: yellow;
+    }
+
+    ul.navbar li {
+      float: left;
+    }
+
+    ul.navbar li a {
+      display: block;
+      color: blue;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+    .media-container {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+
+<body bgcolor="sky blue">
+  <ul class="navbar">
+    <li><a href="#inicio">Inicio</a></li>
+    <li><a href="#galeria">Galería</a></li>
+    <li><a href="#videos">Videos</a></li>
+    <li><a href="#contacto">Contacto</a></li>
+  </ul>
+
+  <h2> Encuentra tu cabezon favorito!! </h2>
+  <h4> Sobre la empresa</h4>
+  <p>La empresa que puso el Pop! En la cultura pop ha viajado al corazón de la industria del entretenimiento. La segunda ubicación física de Funko, Funko Hollywood, tiene 40,000 pies cuadrados de fantasía, aventura, diversión, oportunidades fotográficas más grandes que la vida y sets inmersivos inspirados en sus mundos, personajes y momentos favoritos. Disfrute de una experiencia minorista diferente a todo lo que haya experimentado antes.Por este medio les traemos venta de funkos a todas partes de latinoamerica siendo 100% originales y los unicos en vender aqui cerca</p>
+  <p>Empresa 100% mexicana</p> 
+  <img src="funkos/UWU.gif" width="1000" heigth="800" border="1"/>
+  <h2 id="galeria">Galería</h2>
+<h4><i>Funkos disponibles:</i></h4>
+  <div class="media-container">
+    <img src="funkos/papa.jpg" height="180" border="2" width="190"/> 
+    <img src="funkos/muzan.jpg" height="180" border="2" width="190"/>
+    <img src="funkos/sang.jpg" height="180" border="2" width="190"/>
+    <img src="funkos/king.jpg" height="180" border="2" width="190"/>
+    <img src="funkos/sherk.jpg" height="180" border="2" width="190"/>
+    <img src="funkos/alex.jpg" height="180" border="2" width="190"/>
+    <img src="funkos/super.jpg" height="180" border="2" width="190"/>
+    <img src="funkos/XD.jpg" height="180" border="2" width="190"/>
+    <img src="funkos/dracula.jpg" height="180" border="2" width="190"/>
+    <img src="funkos/jack.jpg" height="180" border="2" width="190"/>
+    <img src="funkos/snop.jpg" height="180" border="2" width="190"/>
+    <img src="funkos/dog.jpg" height="180" border="2" width="190"/>
+    <img src="funkos/carmen2.jpg" height="180" border="2" width="190"/>
+    <img src="funkos/squirt.jpg" height="180" border="2" width="190"/>
+    <img src="funkos/char.jpg" height="180" border="2" width="190"/>
+  </div>
+ <h2 id="videos">Videos</h2>
+  <div class="media-container">
+  <h3>Ultimo funko de pokemon version ilimitada</h3>
+    <video controls>
+      <source src="videos/poke.mp4" type="video/mp4 height="180" border="2" width="190"">
+    </video>
+  <h3>Funko especial del rapero snoop dog, quien es un verdadero jefe en grupo</h3>
+    <video controls>
+      <source src="videos/snoop.mp4" type="video/mp4 height="180" border="2" width="190"">
+    </video>
+  </div>
+
+  <h2 id="contacto">Contacto</h2>
+  <p>Ponte en contacto con nosotros a través de nuestro sitio oficial: <a href="https://funko.com/">www.Funko.com</a></p>
+  <p>O puedes comunicarte directamente con nosotros a los siguientes correos</p>
+  <p>Ponte en contacto con nosotros enviando un correo electrónico a: <a href="mailto:funkos666@gmail.com">funkos666@gmail.com</a></p> 
+  <h4> Sobre nosotros</h4>
+  <p> Somos un grupo de jovenes que quieren emprender en la industria de funkos, creando accesos para la compra y coleccion de estos, de esta forma esparcimos alegrias a niños y empleamos nuestros conocimientos previos.</p>
+</body>
+</html>
+
+ 
